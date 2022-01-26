@@ -57,5 +57,5 @@ This file contains descriptions for the columns in the various data files.
 
 ## **Target:**
 
-1. Construire un modèle de scoring qui donnera une prédiction sur la probabilité de faillite d'un client de façon automatique.
-2. Construire un dashboard interactif à destination des gestionnaires de la relation client permettant d'interpréter les prédictions faites par le modèle, et d’améliorer la connaissance client des chargés de relation client.
+1. Build a scoring model that will automatically predict a client's bankruptcy probability.
+2. Build an interactive dashboard for customer relationship managers to interpret the predictions made by the model, and improve the customer knowledge of customer relationship managers.
